@@ -1,1 +1,1 @@
-<a href="https://mastodon.social/@toni_lijic" rel="me">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@toni_lijic">Mastodon</a>
