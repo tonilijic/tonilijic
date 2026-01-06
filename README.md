@@ -1,1 +1,1 @@
-[mastodon](https://mastodon.social/@toni_lijic)
+<a rel="me" href="https://mastodon.social/@toni_lijic">Mastodon</a>
