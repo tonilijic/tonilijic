@@ -2,4 +2,4 @@ Software designer with a scientific background who loves building random whimsic
 
 <br/>
 
-FInd me on <a rel="me" href="https://mastodon.social/@toni_lijic">Mastodon</a>
+FInd me on <a rel="me" href="https://mastodon.social/@toni_lijic">Mastodon</a> or <a rel="me" href="https://www.linkedin.com/in/tonilijic/">Linkedin</a>.
